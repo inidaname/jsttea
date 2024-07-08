@@ -1,5 +1,5 @@
 {
-  "name": "convertngnum",
+  "name": "jetteaconvert",
   "version": "2.1.1",
   "description": "This helps you convert phone numbers to nigerian phone numbers at an API level",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inidaname/convertngnum.git"
+    "url": "git+https://github.com/inidaname/jsttea.git"
   },
   "keywords": [
     "Nigeria",
@@ -29,9 +29,9 @@
   ],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/inidaname/convertngnum/issues"
+    "url": "https://github.com/inidaname/jsttea/issues"
   },
-  "homepage": "https://github.com/inidaname/convertngnum#readme",
+  "homepage": "https://github.com/inidaname/jsttea#readme",
   "devDependencies": {
     "jest": "^27.2.1"
   }
